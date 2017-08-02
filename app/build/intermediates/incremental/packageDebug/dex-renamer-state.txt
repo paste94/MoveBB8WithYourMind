@@ -1,0 +1,4 @@
+#Wed Aug 02 15:15:11 CEST 2017
+base.0=/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/ricca/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ricca/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/res/menu/menu_main.xml"
+    }
+]

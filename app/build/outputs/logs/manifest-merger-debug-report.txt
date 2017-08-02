@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] /home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/AndroidManifest.xml:19:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/ricca/.android/build-cache/04495bb4817cd7bc4fbdfe187eef7af3801af712/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ricca/.android/build-cache/eafa4baf38b5b7f1af012c8b105a435c178fc229/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.neurosky.algo_sdk_sample.MainActivity
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:14:9-24:20
+	android:screenOrientation
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:17:13-49
+	android:label
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:16:13-45
+	android:configChanges
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:18:13-63
+	android:name
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:19.1.0] /home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.volley:volley:1.0.0] /home/ricca/.android/build-cache/04495bb4817cd7bc4fbdfe187eef7af3801af712/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ricca/.android/build-cache/eafa4baf38b5b7f1af012c8b105a435c178fc229/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/src/main/AndroidManifest.xml

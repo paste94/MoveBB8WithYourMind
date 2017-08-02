@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hack Neurosky1</string>
+    <string name="connect">Connect</string>
+    <string name="start">Start</string>
+    <string name="att_lvl">Attention Level</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

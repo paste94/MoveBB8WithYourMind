@@ -1,0 +1,4 @@
+#Wed Aug 02 09:50:53 CEST 2017
+base.0=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

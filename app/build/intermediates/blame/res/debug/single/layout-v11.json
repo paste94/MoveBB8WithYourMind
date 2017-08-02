@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/ricca/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_simple_decor.xml",
+        "source": "/home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/res/layout-v11/abc_simple_decor.xml"
+    },
+    {
+        "merged": "/home/ricca/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/res/layout-v11/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/res/merged/debug/layout-v11/abc_action_bar_decor.xml",
+        "source": "/home/ricca/.android/build-cache/1a5eeb93f9848d17d6de1dc10b6abd356ab6e829/output/res/layout-v11/abc_action_bar_decor.xml"
+    }
+]

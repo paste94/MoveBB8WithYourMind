@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/NskAlgoSdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10137dee3cb168bb82e4ccbe76fe0d6107ea90b5">
+        <dex dex="/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/pre-dexed/debug/NskAlgoSdk_0f742e14f9691a15ff27e150023c59fdfc555011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/libStreamSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="466ab0e857b95e19ec5d2cb723c9a676e25c2787">
+        <dex dex="/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/pre-dexed/debug/libStreamSDK_0ce9619df54f44e0396b22f3f2a5a56edaf69e0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/pre-dexed/debug/androidplot-core-0.6.1_e28cb7ebbfbf553aba41d6cf7b4a1cec592122c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/libStreamSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="466ab0e857b95e19ec5d2cb723c9a676e25c2787">
+        <dex dex="/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/pre-dexed/debug/libStreamSDK_57fd6ab702fac08f5d214a7a1e5eed72b0df2efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/androidplot-core-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3db0daea52375b26bfa61c59b8df93950bdefbbc">
+        <dex dex="/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/pre-dexed/debug/androidplot-core-0.6.1_223a9468f65873b4f35565bc6357e26aa6db9336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/libs/NskAlgoSdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="10137dee3cb168bb82e4ccbe76fe0d6107ea90b5">
+        <dex dex="/home/ricca/AndroidStudioProjects/ControlBB8WithYourMind2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/pre-dexed/debug/NskAlgoSdk_fe59ec385589fc5972f44dc483f1dbc360345fa5.jar" />
+    </item>
+
+</items>

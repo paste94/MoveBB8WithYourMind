@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NskAlgoSdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/NskAlgoSdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

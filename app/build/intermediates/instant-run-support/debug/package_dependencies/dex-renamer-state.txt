@@ -1,0 +1,19 @@
+#Wed Aug 02 09:50:53 CEST 2017
+renamed.5=classes3.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes.dex
+renamed.1=classes6.dex
+renamed.0=classes2.dex
+base.5=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f10fade4c9add4392369b5a448916148d23aba10
+base.4=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidplot-core-0.6.1_223a9468f65873b4f35565bc6357e26aa6db9336
+base.3=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/libStreamSDK_57fd6ab702fac08f5d214a7a1e5eed72b0df2efb
+base.2=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7940cb9da33dd8c87f1724472e424cb3fad17bd2
+base.1=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/NskAlgoSdk_0f742e14f9691a15ff27e150023c59fdfc555011
+base.0=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_68c764020ec449551516ca7cf66db364a645adab
+file.5=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f10fade4c9add4392369b5a448916148d23aba10/classes.dex
+file.4=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidplot-core-0.6.1_223a9468f65873b4f35565bc6357e26aa6db9336/classes.dex
+file.3=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/libStreamSDK_57fd6ab702fac08f5d214a7a1e5eed72b0df2efb/classes.dex
+file.2=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7940cb9da33dd8c87f1724472e424cb3fad17bd2/classes.dex
+file.1=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/2/NskAlgoSdk_0f742e14f9691a15ff27e150023c59fdfc555011/classes.dex
+file.0=/home/ricca/Università/Tesi/Neurosky/Android Developer Tools 4.2/EEG_Algo_SDK_Android/Algo_SDK_Sample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_68c764020ec449551516ca7cf66db364a645adab/classes.dex
